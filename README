@@ -1,0 +1,17 @@
+A Framework and scraping implementation for WHOIS record searching. 
+
+Seldom, we think that data on the net is free, yes, but only for viewing (mostly). To consume there are rules and laws. One feature we always used but never thought we should componentize is WHOIS searching. Infact, I was surprised the data isnt free and is charged. Way to go !
+
+More documentation to follow.
+
+Key Notes:
+
+1. A Plain Java Codebase, needs Java 5+, due to annotations usage.
+2. A Maven Project
+3. Depends on JSoup for scraping
+4. Has support for WHOIS.NET and WHO.IS scraping.
+5. Provides extension for pluggin in other forms of WHOIS Record sourcing.
+
+Cheers !
+Arun
+www.gettoarun.com
